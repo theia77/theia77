@@ -6,6 +6,8 @@
 
 [![Visitors](https://komarev.com/ghpvc/?username=theia77&color=1D9E75&style=flat-square&label=Profile+Views)](https://github.com/theia77)
 
+[![Sparkle - RADWIMPS](https://img.shields.io/badge/Listening%20to-Sparkle%20by%20RADWIMPS-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4cktbXiXOapiLButbJeHWM)
+
 </div>
 
 ---
@@ -14,7 +16,6 @@
 
 ```yaml
 name: Sumouli Pramanik
-location: Kolkata, India
 education:
   - B.E. Civil Engineering @ Jadavpur University (GPA: 7.85)
   - B.S. Data Science & Applications @ IIT Madras (GPA: 7.78)
@@ -66,7 +67,19 @@ fun_fact: I debug code AND check load-bearing capacities
 
 ### 🚀 What I'm Working On
 
-🏗️ **Comparative Structural Serviceability Assessment** — Building a normalized framework for cross-regional structural comparison that factors in seismic conditions, environmental exposure, and material degradation. Using ML models (Scikit-learn, PyTorch) to predict serviceability thresholds and support infrastructure design decisions.
+| 🏗️ Project | Description | Stack | Repo |
+|---|---|---|---|
+| **Comparative Structural Serviceability Assessment** | Cross-regional structural performance analysis using ML — modeling seismic conditions, environmental exposure & material degradation to predict serviceability thresholds | Python · PyTorch · Scikit-learn · NumPy · Pandas | [View →](https://github.com/theia77/YOUR_REPO_NAME_HERE) |
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=theia77&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -78,6 +91,32 @@ fun_fact: I debug code AND check load-bearing capacities
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theia77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=theia77&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theia77/theia77/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theia77/theia77/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theia77/theia77/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+> ⚙️ To activate the snake, create `.github/workflows/snake.yml` in your repo — ask me for the file!
+
+---
+
+### 💬 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
