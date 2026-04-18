@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="YOUR_GIF_URL_HERE" width="200" alt="Gojo jumping gif"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Sumouli+Pramanik+%F0%9F%91%8B;Civil+Eng+%40+Jadavpur+University;Data+Science+%40+IIT+Madras;Structural+Engineering+meets+AI+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
 
 [![Visitors](https://komarev.com/ghpvc/?username=theia77&color=1D9E75&style=flat-square&label=Profile+Views)](https://github.com/theia77)
