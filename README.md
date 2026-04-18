@@ -73,16 +73,6 @@ fun_fact: I debug code AND check load-bearing capacities
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=theia77&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -107,8 +97,6 @@ fun_fact: I debug code AND check load-bearing capacities
 </picture>
 
 </div>
-
-> ⚙️ To activate the snake, create `.github/workflows/snake.yml` in your repo — ask me for the file!
 
 ---
 
